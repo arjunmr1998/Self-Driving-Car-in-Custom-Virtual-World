@@ -1,4 +1,4 @@
-# 🚗 Self-Driving Car Simulation in Vanilla JavaScript
+#  Self-Driving Car Simulation in Vanilla JavaScript
 
 > A complete autonomous driving simulation built from scratch using **HTML5 Canvas** and **Vanilla JavaScript**  no TensorFlow, no game engine, no physics libraries.
 
