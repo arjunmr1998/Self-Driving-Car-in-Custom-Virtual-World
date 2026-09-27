@@ -1,8 +1,8 @@
 # 🚗 Self-Driving Car Simulation in Vanilla JavaScript
 
-> A complete autonomous driving simulation built from scratch using **HTML5 Canvas** and **Vanilla JavaScript** — no TensorFlow, no game engine, no physics libraries.
+> A complete autonomous driving simulation built from scratch using **HTML5 Canvas** and **Vanilla JavaScript**  no TensorFlow, no game engine, no physics libraries.
 
-This project extends my custom **Virtual World Editor** into a complete self-driving car simulator. Instead of relying on existing machine learning or simulation frameworks, every major component—vehicle physics, ray-casting sensors, neural networks, genetic evolution, collision detection, and visualization—was implemented from first principles.
+This project extends my custom **Virtual World Editor** into a complete self-driving car simulator. Instead of relying on existing machine learning or simulation frameworks, every major component vehicle physics, ray-casting sensors, neural networks, genetic evolution, collision detection, and visualization was implemented from first principles.
 
 The simulation trains **100 AI cars simultaneously**, continuously evolves their neural networks, and visualizes how the best-performing car learns to navigate through a procedurally generated city.
 
@@ -535,7 +535,7 @@ This mirrors the coordinate transformations used in robotics.
 - Vanilla JavaScript (ES6)
 - HTML5 Canvas
 - CSS3
-- Object-Oriented Programming
+- Object Oriented Programming
 - Computational Geometry
 - Evolutionary Algorithms
 - Neural Networks
